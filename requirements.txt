@@ -1,0 +1,6 @@
+pyspark
+pandas
+numpy
+matplotlib
+ipykernel
+# PySpark needs Java 17: brew install openjdk@17
